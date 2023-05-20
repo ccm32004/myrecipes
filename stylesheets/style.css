@@ -1,0 +1,17 @@
+*{
+    background-color: #CBC3E3; 
+}
+
+body{
+    font-family: "Helvetica";
+    
+}
+
+h1{
+    text-align: center;
+}
+
+a,li,ul{
+    background-color: white;
+}
+
