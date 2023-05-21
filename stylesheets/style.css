@@ -1,17 +1,34 @@
 *{
-    background-color: #CBC3E3; 
+    background-color: #2f124a; 
 }
 
 body{
     font-family: "Helvetica";
+    display: block;
+    background: white;
+    width: 400px;
+    margin: 100px auto;
     
 }
+/*margin: TOP first */
 
 h1{
     text-align: center;
+    background: #CBC3E3;
+    padding: 10px;
 }
 
 a,li,ul{
     background-color: white;
+    font-family: "Lucida Handwriting"
 }
+
+ul{
+    padding-bottom: 20px;
+    margin: 10px auto;
+    padding-top: 0;
+    
+}
+
+
 
