@@ -1,16 +1,55 @@
 *{
-    background-color: #CBC3E3; 
+    background-color:  #2f124a; 
 }
 
 body{
     font-family: "Helvetica";
+    background-color: white;
+    margin: 40px;
+
 }
 
 img{
     width: 500px;
     height: auto;
+    display:block;
+    margin: 20px auto;
+}
+
+h1{
+    background-color: #CBC3E3;
+    padding: 20px;
+}
+
+h3,p,ul,ol, li{
+    background-color: white;
 }
 
 h3{
-    background-color: white;
+    display:inline-block;
+    background-color: #CBC3E3;
+    padding: 20px;
+
 }
+
+p{
+    padding: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border: 1px solid black;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+li{
+    padding: 5px;
+}
+
+ol{
+    padding-bottom: 30px;
+}
+
+
+
+
+
